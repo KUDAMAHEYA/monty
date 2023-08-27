@@ -3,7 +3,7 @@
  * f_pint - top print
  * @head: stack head
  * @counter: line_integer
- * Return: 0
+ * Return: nothing
 */
 void f_pint(stack_t **head, unsigned int counter)
 {
